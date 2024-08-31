@@ -1,0 +1,1 @@
+I am interested in taking DATA 602 - Principles of Data Science as I want to strengthen my fundamentals in the subject, deep dive more in Neural Networks and work on a dynamic project involving some modern technology preferably in the domain of computer vision. 
